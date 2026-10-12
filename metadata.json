@@ -1,0 +1,6 @@
+{
+  "name": "ImpulsoSOS",
+  "description": "Herramienta práctica no clínica de respuesta inmediata para momentos de impulso y urgencia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
